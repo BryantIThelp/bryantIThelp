@@ -2,10 +2,6 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/BryantIThelp/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/BryantIThelp/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/BryantIThelp/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BryantIThelp/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BryantIThelp/azure-network-protocols)
