@@ -5,9 +5,9 @@
 - <b>Microsoft Azure</b>
   
   - [Creating Virtual Machines Within Azure](https://github.com/BryantIThelp/creating-virtual-machines)
-  - [How To Log Into Virtual Machines](https://github.com/BryantIThelp/login-virtual-machine)
-  - [Observing ICMP Traffic Within Windows Virtual Machine](https://github.com/BryantIThelp/observe-icmp-traffic)
-  - [Configuring A Firewall (Network Security Group) To Block ICMP Traffic](https://github.com/BryantIThelp/configure-firewall-nsg)
+  - [How To Connect to Virtual Machines](https://github.com/BryantIThelp/connect-virtual-machine)
+  - [Observing Network and ICMP Traffic using WireShark Within Windows Virtual Machine](https://github.com/BryantIThelp/observe-network-icmp-traffic)
+  - [Configuring A Firewall (Network Security Group) To Block Incoming ICMP Traffic](https://github.com/BryantIThelp/configure-firewall-nsg)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
