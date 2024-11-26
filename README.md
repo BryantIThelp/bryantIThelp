@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   
-  - [Creating Virtual Machines Within Azure](https://github.com/BryantIThelp/creating-virtual-machines)
+  - [Creating Virtual Machines Within Microsoft Azure](https://github.com/BryantIThelp/creating-virtual-machines)
   - [How To Connect to Virtual Machines](https://github.com/BryantIThelp/connect-virtual-machine)
   - [Observing Network and ICMP Traffic using WireShark Within Windows Virtual Machine](https://github.com/BryantIThelp/observe-network-icmp-traffic)
   
